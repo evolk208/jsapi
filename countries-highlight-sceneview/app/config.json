@@ -1,0 +1,29 @@
+{
+    "countriesArray": "('Afganistan','Albania','Algeria','Angola','Armenia','Azerbaijan')", 
+
+    "popupTitle": "{NAME}", 
+    "popupContent": "<a href=https://www.gichd.org/where-we-work/{NAME}>Learn more</a>",
+    
+    "baseCountriesColor": "#e8e8e8",
+    "surfaceColor": "#B0D8E6", 
+
+    "fillColor": "#548540", 
+    "fillOutline": "#464646", 
+    "fillOutlineOpacity": ".7", 
+
+    "symbolFill": "#191970",
+    "symbolOutline": "#dce8f7", 
+
+    "basemap": "null", 
+
+    "starsEnabled": "false", 
+    "atmosphereEnabled": "false", 
+    "scale": "100000000", 
+
+    "highlightColor": "#FFF633",
+
+    "popupAlignment": "top-center", 
+
+    "labelFontFamily": "Roboto, sans-serif",
+    "labelFontWeight": "bold"
+}
